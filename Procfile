@@ -1,1 +1,1 @@
-worker:python3 main.js
+worker:python3 main.py
