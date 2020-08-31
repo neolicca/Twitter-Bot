@@ -18,7 +18,7 @@ def main():
         image_path = f'gifs/{random_number}.gif'
         api.update_with_media(image_path,'')
         print('Uploaded')
-        time.sleep(20)
+        time.sleep(1800)
 
 if __name__ == "__main__":
     main()
